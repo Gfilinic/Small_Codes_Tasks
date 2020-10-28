@@ -1,0 +1,10 @@
+C:\Users\Iva Papac\Desktop\6. semestar\PI\Laboratorijske vježbe\vjezbe_2\Mjenjačnica\MjenjačnicaLib\bin\Debug\MjenjačnicaLib.dll
+C:\Users\Iva Papac\Desktop\6. semestar\PI\Laboratorijske vježbe\vjezbe_2\Mjenjačnica\MjenjačnicaLib\bin\Debug\MjenjačnicaLib.pdb
+C:\Users\Iva Papac\Desktop\6. semestar\PI\Laboratorijske vježbe\vjezbe_2\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.csprojAssemblyReference.cache
+C:\Users\Iva Papac\Desktop\6. semestar\PI\Laboratorijske vježbe\vjezbe_2\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.dll
+C:\Users\Iva Papac\Desktop\6. semestar\PI\Laboratorijske vježbe\vjezbe_2\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.pdb
+C:\Users\Goc\source\repos\Mjenjačnica\MjenjačnicaLib\bin\Debug\MjenjačnicaLib.dll
+C:\Users\Goc\source\repos\Mjenjačnica\MjenjačnicaLib\bin\Debug\MjenjačnicaLib.pdb
+C:\Users\Goc\source\repos\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.csprojAssemblyReference.cache
+C:\Users\Goc\source\repos\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.dll
+C:\Users\Goc\source\repos\Mjenjačnica\MjenjačnicaLib\obj\Debug\MjenjačnicaLib.pdb
